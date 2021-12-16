@@ -1,6 +1,6 @@
 ---
 title: "Bechdel"
-author: "YOU"
+author: "Rachel Good"
 date: "`r Sys.Date()`"
 output: 
   html_document: 
